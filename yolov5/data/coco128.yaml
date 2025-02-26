@@ -1,0 +1,9 @@
+#
+train: /content/Zed-Mini-2/train/images
+val: /content/Zed-Mini-2/valid/images
+test: /content/Zed-Mini-2/test/images
+
+
+names:
+  0: persoana
+  
