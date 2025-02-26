@@ -1,0 +1,2 @@
+# Autonomous-Vehicles-Pedestrian-Detection
+This project involves developing an automated pedestrian detection system using computer vision and YOLOv5s, trained on  Google Colab. It enables real-time detection and can contribute to improving road safety in autonomous driving systems.
